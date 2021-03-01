@@ -4,7 +4,7 @@ const inventoryViewer = require('mineflayer-web-inventory')
 
 const bot = mineflayer.createBot({
     host: 'Unabatedlynx5.aternos.me',
-    port: 39138s,
+    port: 39138,
     username: 'Unabatedbot',
 })
 
